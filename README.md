@@ -1,6 +1,9 @@
 # boxtox
 
-A new Flutter project.
+Delivery tracking mobile app
+
+# Design ui
+![alt text](https://raw.githubusercontent.com/baydim/BoxTox/master/assets/IMG_20210811_110044_373.webp)
 
 ## Getting Started
 
